@@ -1,0 +1,16 @@
+dotenv
+together
+openai
+python-dotenv
+langchain-together
+langchain-openai
+langchain
+scikit-learn
+torch
+Transformers
+langchain-community
+langchain_huggingface
+chromadb
+umap-learn
+pypdf
+umap
